@@ -4,14 +4,6 @@ A simple yet elegant **Flutter-based mobile application** that fetches **current
 
 ---
 
-## 📱 Preview
-<p align="center">
-  <img src="screenshots/input_screen.png" width="250">
-  <img src="screenshots/output_dialog.png" width="250">
-</p>
-
----
-
 ## 🔍 Key Features
 
 - 🔎 **City Search** – Enter the name of any city in the world.
